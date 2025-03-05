@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Vini</h1>
 
-### <p align="center">I'm mainly a NodeJS programmer, but I love Python and Go, At the moment I'm working in my bot/website</p>
+### <p align="center">I'm mainly a NodeJS programmer, but I love Python and Go</p>
 
 <div align="center">
   <h3>Stack</h3>
