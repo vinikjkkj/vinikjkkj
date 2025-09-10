@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Vini</h1>
 
-### <p align="center">I'm mainly a Full-Stack NodeJS programmer, but I love Python, Go and C++, my aim is to be a Open Source Programmer, Bussines Man or a Big Tech Programmer. Now I'm working in my project Becca Bot and at Zapper. In future I desire to learn to create LLMs and mobile apps with React Native</p>
+### <p align="center">I'm mainly a Full-Stack NodeJS programmer, but I love Python, Go and C++, my aim is to be a Open Source Programmer, Bussines Man or a Big Tech Programmer. Now I'm working in my enterprise Becca Bot. In future I desire to learn to create LLMs and mobile apps with React Native</p>
 ### <p align="center">I have a lot open source projects to help the community, and frequently send PRs to other projects</p>
 
 <div align="center">
